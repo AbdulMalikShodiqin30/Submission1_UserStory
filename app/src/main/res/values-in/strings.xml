@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UserStory</string>
+    <string name="register">Daftar</string>
+    <string name="email_error">Email tidak valid</string>
+    <string name="password_error">Minimal 8 karakter</string>
+    <string name="name">Nama</string>
+    <string name="submit">Kirim</string>
+    <string name="login">Masuk</string>
+    <string name="welcome_text">Selamat datang di Aplikasi UserStory\\nSilahkan masuk atau daftar terlebih dahulu</string>
+    <string name="logout">Keluar</string>
+    <string name="gallery">GALERI</string>
+    <string name="capture">Ambil Gambar</string>
+    <string name="change_camera">Ganti Kamera</string>
+</resources>
