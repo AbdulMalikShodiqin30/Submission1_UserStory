@@ -4,6 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:padding="16dp"
+    android:background="@drawable/bg"
     tools:context=".presentation.welcome.WelcomeActivity">
 
     <LinearLayout
@@ -19,6 +20,7 @@
             android:layout_gravity="center"
             android:text="@string/welcome_text"
             android:textAlignment="center"
+            android:textColor="@color/white"
             android:layout_marginBottom="40dp"
             android:textSize="18sp" />
 

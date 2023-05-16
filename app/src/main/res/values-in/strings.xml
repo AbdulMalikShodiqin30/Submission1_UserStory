@@ -7,7 +7,7 @@
     <string name="name">Nama</string>
     <string name="submit">Kirim</string>
     <string name="login">Masuk</string>
-    <string name="welcome_text">Selamat datang di Aplikasi UserStory\\nSilahkan masuk atau daftar terlebih dahulu</string>
+    <string name="welcome_text">Selamat datang di Aplikasi UserStory\nSilahkan masuk atau daftar terlebih dahulu</string>
     <string name="logout">Keluar</string>
     <string name="gallery">GALERI</string>
     <string name="capture">Ambil Gambar</string>
